@@ -32,6 +32,11 @@
 			<locationURI>ArduinoHardwareLibPath/SPI</locationURI>
 		</link>
 		<link>
+			<name>Libraries/SPI7Segment</name>
+			<type>2</type>
+			<locationURI>ArduinoPivateLibPath/SPI7Segment</locationURI>
+		</link>
+		<link>
 			<name>arduino/core</name>
 			<type>2</type>
 			<locationURI>ArduinoPlatformPath/cores/arduino</locationURI>
