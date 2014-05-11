@@ -223,7 +223,7 @@ environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.RUNTIM
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.RUNTIME.IDE.PATH/value=/Applications/Arduino.app/Contents/Resources/Java
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.RUNTIME.IDE.VERSION/delimiter=\:
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.RUNTIME.IDE.VERSION/operation=replace
-environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.RUNTIME.IDE.VERSION/value=152
+environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.RUNTIME.IDE.VERSION/value=156-r2
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.SOFTWARE/delimiter=\:
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.SOFTWARE/operation=replace
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/A.SOFTWARE/value=ARDUINO
@@ -307,7 +307,7 @@ environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.B
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.BOARD_NAME/value=Arduino Uno
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.COM_PORT/delimiter=\:
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.COM_PORT/operation=replace
-environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.COM_PORT/value=/dev/cu.usbmodem1411
+environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.COM_PORT/value=/dev/cu.usbserial-A700eCqo
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.EXTRA.C.COMPILE/delimiter=\:
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.EXTRA.C.COMPILE/operation=replace
 environment/project/it.baeyens.arduino.core.toolChain.release.741266510/JANTJE.EXTRA.C.COMPILE/value=
